@@ -7,7 +7,7 @@
     <div class="py-3">
 	    <div class="sm:px-12 flex justify-center">
 	    <div class="p-4 sm:p-9 bg-white shadow sm:rounded-lg w-1/2">
-	        PAGE NOT FOUND!
+	        PAGE NOT FOUND!!
 	     </div>
 	    </div>
 	</div>
